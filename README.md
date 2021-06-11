@@ -42,6 +42,7 @@ Calculate the accuracy score of the model.
 Generate a confusion matrix.
 Print out the imbalanced classification report.
 Save your credit_risk_resampling.ipynb file to your Credit_Risk_Analysis folder.
+! https://github.com/Dybondzy/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb
 
 Deliverable 1 Requirements
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
@@ -88,6 +89,7 @@ Next, resample the training data using the EasyEnsembleClassifier algorithm with
 Consult the following Easy Ensemble documentation (Links to an external site.) for an example.
 After the data is resampled, calculate the accuracy score of the model, generate a confusion matrix, and then print out the imbalanced classification report.
 Save your credit_risk_ensemble.ipynb file to your Credit_Risk_Analysis folder.
+! https://github.com/Dybondzy/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb
 
 Deliverable 3 Requirements
 You will earn a perfect score for Deliverable 3 by completing all requirements below:
@@ -147,4 +149,6 @@ Upload the following to your Credit_Risk_Analysis GitHub repository:
 Your credit_risk_resampling.ipynb file.
 Your credit_risk_ensemble.ipynb file.
 An updated README.md that has your written analysis.
+! https://github.com/Dybondzy/Credit_Risk_Analysis/edit/main/README.md
+
 To submit your challenge assignment in Canvas, click Submit, then provide the URL of your Credit_Risk_Analysis GitHub repository for grading.
