@@ -42,7 +42,7 @@ Calculate the accuracy score of the model.
 Generate a confusion matrix.
 Print out the imbalanced classification report.
 Save your credit_risk_resampling.ipynb file to your Credit_Risk_Analysis folder.
-! https://github.com/Dybondzy/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb
+! https://github.com/Dybondzy/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb
 
 Deliverable 1 Requirements
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
